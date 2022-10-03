@@ -3,7 +3,7 @@
 |------|---|---|--|
 |Week1|**문제해결이란, 시간복잡도, 정렬, 완전탐색**|2022.09.12| :heavy_check_mark: |
 |Week2|**stack, queue, deque**|2022.09.19|:heavy_check_mark: |
-|Week3|**bruteforcing, recursion, backtracking**|2022.09.26| |
+|Week3|**bruteforcing, recursion, backtracking**|2022.09.26|:heavy_check_mark:|
 |Week4|**동적계획법**|2022.10.03| |
 |Week5|**그리디**|2022.10.10| |
 |Week6|**분할정복**|2022.10.31| |
