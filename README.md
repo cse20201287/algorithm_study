@@ -1,5 +1,5 @@
 # algorithm_study
-|주제|내용|완료|
+|주제|완료|
 |------|---|--|
 |**시간복잡도, 정렬, 완전탐색**| :heavy_check_mark: |
 |**stack, queue, deque**|:heavy_check_mark: |
